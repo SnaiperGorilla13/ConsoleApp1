@@ -11,6 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string hello = "Привет Бобер";
+            string hello = "Привет Котик";
+            string,Wraitln
         }
     }
 }
